@@ -17,7 +17,7 @@ Hi, I'm Golam Mustafa, a passionate front-end developer. I enjoy creating beauti
 
 ## Contact Me
 
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/golam-mustafa-masud)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/golam-mustafa-masud)
 - Twitter: [My Twitter](https://x.com/masudsw)
 
 
