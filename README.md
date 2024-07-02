@@ -29,7 +29,7 @@ Hi, I'm Golam Mustafa, a passionate front-end developer. I enjoy creating beauti
   
 ## GitHub Stats
 
-![Total Stars](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs&custom_title=Total%20Stars%20%26%20Commits)
+![Total Stars](https://github-readme-stats.vercel.app/api?username=masudsw&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs&custom_title=Total%20Stars%20%26%20Commits)
 
 
 ## GitHub Stats
