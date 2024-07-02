@@ -32,13 +32,10 @@ Hi, I'm Golam Mustafa, a passionate front-end developer. I enjoy creating beauti
 ![Total Stars](https://github-readme-stats.vercel.app/api?username=masudsw&show_icons=true&hide=contribs,issues)
 
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=masudsw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masudsw&layout=compact&theme=radical)
+
 
 ## Contact Me
 
