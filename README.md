@@ -10,6 +10,10 @@ Hi, I'm Golam Mustafa, a passionate front-end developer. I enjoy creating beauti
 ### Languages and Tools:
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -25,6 +29,7 @@ Hi, I'm Golam Mustafa, a passionate front-end developer. I enjoy creating beauti
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
+  
 </p>
   
 
